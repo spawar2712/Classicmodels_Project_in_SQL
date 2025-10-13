@@ -25,4 +25,4 @@ Employees with the highest number of customers.
 Use Case:
 This project is ideal for learning SQL fundamentals, data analysis, and database normalization concepts using a real-world business example.
 
-Database Used: MySQL (or any RDBMS like PostgreSQL, Oracle).
+Database Used: MySQL 
